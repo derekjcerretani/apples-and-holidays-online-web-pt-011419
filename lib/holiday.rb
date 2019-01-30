@@ -83,3 +83,12 @@ def all_holidays_with_bbq(holiday_hash)
   end
   bbq_days
 end
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+>>>>>>> 2ccaafa7afba4a332f9f788d875682662668441f
